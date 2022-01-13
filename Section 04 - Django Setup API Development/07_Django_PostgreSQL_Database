@@ -1,0 +1,2 @@
+# Django PostgreSQL Database
+pip install psycopg2

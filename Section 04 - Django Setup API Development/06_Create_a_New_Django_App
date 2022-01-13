@@ -1,0 +1,2 @@
+# Create a New Django App
+python manage.py startapp countries

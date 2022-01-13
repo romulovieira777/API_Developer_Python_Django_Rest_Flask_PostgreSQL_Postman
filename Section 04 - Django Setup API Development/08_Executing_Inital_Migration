@@ -1,0 +1,2 @@
+# Executing Inital Migration
+python manage.py migrate

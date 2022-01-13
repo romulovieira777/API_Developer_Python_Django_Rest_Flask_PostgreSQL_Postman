@@ -1,0 +1,9 @@
+# Updating
+python -m pip install --upgrade pip
+
+
+# Installing Django
+pip install django
+
+# Checking the version
+python -m django --version

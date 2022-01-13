@@ -1,0 +1,2 @@
+# Installing Django REST Framework
+pip install djangorestframework

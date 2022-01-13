@@ -1,0 +1,10 @@
+# Commands to create and activate a virtual environment
+python -m ven ven
+
+# Change to venv
+cd venv
+
+scripts\activate
+
+# Disable
+deactivate

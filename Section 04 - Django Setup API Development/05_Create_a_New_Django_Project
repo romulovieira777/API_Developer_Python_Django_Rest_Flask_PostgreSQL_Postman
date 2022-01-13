@@ -1,0 +1,2 @@
+# Create a New Django Project
+django-admin.py startproject worldCountries .
