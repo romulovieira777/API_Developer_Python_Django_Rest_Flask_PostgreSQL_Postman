@@ -1,0 +1,3 @@
+# starting the program
+
+python manage.py runserver
