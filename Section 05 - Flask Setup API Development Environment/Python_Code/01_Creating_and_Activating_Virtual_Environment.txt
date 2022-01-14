@@ -1,0 +1,20 @@
+# Selecting a folder
+cd Desktop
+
+# Creating a folder
+mkdir project
+
+# Changing to project folder
+cd project
+
+# Creating a virtual environment
+python -m venv abc
+
+# Selecting the virtual environment
+cd abc
+
+# Activating the virtual environment
+scripts\activate
+
+# Disabling the virtual environment
+deactivate

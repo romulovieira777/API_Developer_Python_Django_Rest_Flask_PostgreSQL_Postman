@@ -1,0 +1,5 @@
+# Installing Flask
+pip install flask
+
+# Updating the pip
+pip install --upgrade pip
